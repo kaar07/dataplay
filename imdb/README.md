@@ -5,10 +5,10 @@ The CSV file consisted of three columns: Title, Year of Release and the IMDB rat
 
 # Insights
 
-![Boxplot year]("images/boxplot_year.png")  
-![Boxplot rating]("images/boxplot_rating.png")  
-![Histogram rating]("images/hist_combo.png")  
-![Scatterplot: rating vs year]("images/scatter.png")  
+![Boxplot year](images/boxplot_year.png)  
+![Boxplot rating](images/boxplot_rating.png)  
+![Histogram rating](images/hist_combo.png)  
+![Scatterplot: rating vs year](images/scatter.png)  
 
 ## Correlation
 
@@ -16,7 +16,7 @@ To find any correlation between Year of Release (*Release_date*) and IMDB Rating
 
 The residual plot was found as follows:
 
-![Residual plot]("images/residual.png")
+![Residual plot](images/residual.png)
 
 # References
 --------------
